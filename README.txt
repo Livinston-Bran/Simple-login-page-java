@@ -1,6 +1,6 @@
 # Simple-login-page-java
 
-In this project, I will create a complete Java application for Login page using NetBeans. The application starts with a visually appealing splash screen, leading to a login page.
+In this project, I will create a Simple Java application for Login page using NetBeans. The application starts with a visually appealing splash screen, leading to a login page.
 
 # Tools Used
 
@@ -10,5 +10,5 @@ To develop this project, the following tools were used:
 
 # Admin Login Credentials
 
-- Username: 
-- Password: 
+- Username: BranL
+- Password: 2001
